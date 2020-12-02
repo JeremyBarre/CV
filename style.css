@@ -1,0 +1,45 @@
+body
+{
+    background-image: url(image.webp);
+    background-size: 100%;
+}
+h1
+{
+    background-color: black;
+    border-radius: 20px;
+    margin-left: 40%;
+    color: red;
+    width: 20%;
+    text-align: center;
+    font-style: italic;
+    box-shadow: black 4px 4px;
+}
+
+.gauche
+{
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-left: 10%;
+    color: blue;
+    width: 20%;
+    text-align: center;
+    font-style: italic;
+    box-shadow: grey 5px 5px;
+}
+
+.droite
+{
+
+}
+.Texte1
+{
+    font-style: italic;
+    color: black;
+    
+}
+.Texte2
+{
+    box-sizing: content-box;
+    font-style: italic;
+    margin-right: 10%;
+}
